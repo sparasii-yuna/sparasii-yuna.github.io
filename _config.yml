@@ -1,0 +1,9 @@
+# Site settings
+title: Works of Yuna
+author:
+  name: Yutian Hu
+  email: yutianhu@hotmail.com
+description: "Yutian Hu is a versatile sound designer bringing vivid and immersive sonic experience to different types of interaction systems."
+
+# Build settings
+remote_theme: jekyll/minima
